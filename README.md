@@ -3,8 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer
 ------------------------
+I am a Full-Stack Web Developer with a strong focus on Ruby on Rails, HTML, CSS, and JavaScript. With a passion for building robust and scalable web applications, I bring a wealth of experience in developing and deploying end-to-end solutions. I am well-versed in utilizing Ruby and the Rails framework to create efficient back-end functionalities, while also crafting intuitive and responsive front-end interfaces using HTML, CSS, Javascript and Bootstrap.
 
-Currently, I'm pursuing a full-stack web development program at Microverse, a renowned remote software development school, equipping me with comprehensive front-end and back-end development skills.
+My expertise extends to implementing interactive features with JavaScript to enhance user experiences. I am proficient in managing databases with SQL and version control with Git, ensuring seamless collaboration and code management within development teams. Throughout my career, I have been driven by a commitment to producing high-quality code and maintaining best practices to deliver reliable and maintainable software.
+
+I am constantly seeking opportunities to leverage my skills in Javascript, Ruby on Rails and other technologies to contribute to innovative projects that make a meaningful impact. If you're looking for a versatile and enthusiastic developer to join your team, let's connect and create remarkable web applications together.
 
 * 🖥️  See my portfolio at [github](http://github.com/HossainAraf/Portfolio-Mobile-First)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
