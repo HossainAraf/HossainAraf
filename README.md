@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD ARAFAT HOSSAIN
 =========================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passionate+to+create)](https://git.io/typing-svg)
 
 Full Stack Web Developer
 ------------------------
