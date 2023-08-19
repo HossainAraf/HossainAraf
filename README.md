@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD ARAFAT HOSSAIN
 =========================================================================================================================================
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passion+to+create)](https://git.io/typing-svg)
+
 Full Stack Web Developer
 ------------------------
 I am a Full-Stack Web Developer with a strong focus on Ruby on Rails, HTML, CSS, and JavaScript. With a passion for building robust and scalable web applications, I bring a wealth of experience in developing and deploying end-to-end solutions. I am well-versed in utilizing Ruby and the Rails framework to create efficient back-end functionalities, while also crafting intuitive and responsive front-end interfaces using HTML, CSS, Javascript and Bootstrap.
@@ -11,7 +13,7 @@ I am constantly seeking opportunities to leverage my skills in Javascript, Ruby 
 
 * 🖥️  See my portfolio at [github](http://github.com/HossainAraf/Portfolio-Mobile-First)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
-* 🚀  I'm currently working on [To Do List](http://github.com/HossainAraf/To-Do-List)
+* 🚀  I'm currently working on [Metflix](https://github.com/HossainAraf/Metflix)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on your repo
 
