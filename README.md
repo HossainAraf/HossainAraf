@@ -1,32 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD ARAFAT HOSSAIN
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+  
+ Hi ! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+My name is MD ARAFAT HOSSAIN 
 =========================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+'m+curious+to+learn;passionate+to+create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+curious+to+learn;passionate+to+create)](https://git.io/typing-svg)
 
-Full Stack Web Developer
+Front End Developer
 ------------------------
-I am a Full-Stack Web Developer with a strong focus on Ruby on Rails, HTML, CSS, and JavaScript. With a passion for building robust and scalable web applications, I bring a wealth of experience in developing and deploying end-to-end solutions. I am well-versed in utilizing Ruby and the Rails framework to create efficient back-end functionalities, while also crafting intuitive and responsive front-end interfaces using HTML, CSS, Javascript and Bootstrap.
+I'm a dedicated Front-End Developer specializing in HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying updated with the latest web trends, I focus on creating engaging and user-friendly web experiences.
 
-My expertise extends to implementing interactive features with JavaScript to enhance user experiences. I am proficient in managing databases with SQL and version control with Git, ensuring seamless collaboration and code management within development teams. Throughout my career, I have been driven by a commitment to producing high-quality code and maintaining best practices to deliver reliable and maintainable software.
+I excel at turning designs into responsive, pixel-perfect web pages that work seamlessly across devices and browsers. I'm also proficient in modern JavaScript library React and Redux , allowing me to build dynamic and interactive web applications.
 
-I am constantly seeking opportunities to leverage my skills in Javascript, Ruby on Rails and other technologies to contribute to innovative projects that make a meaningful impact. If you're looking for a versatile and enthusiastic developer to join your team, let's connect and create remarkable web applications together.
+Collaboration and code quality are my priorities. I work closely with back-end developers and designers to ensure efficient project development, and my proficiency in Git helps maintain a clean codebase for team projects.
+
+I'm passionate about exceeding client expectations and delivering exceptional user interfaces. If you're looking for a Front-End Developer who combines design sensibilities with technical expertise, let's connect and create outstanding web applications together.
 
 * 🖥️  See my portfolio at [github](http://github.com/HossainAraf/Portfolio-Mobile-First)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
 * 🚀  I'm currently working on [Bookstore](https://github.com/HossainAraf/Book-store)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Javascript, React, Redux, DSA
 * 🤝  I'm open to collaborating on your repo
 
+<!--
 <a href="https://www.github.com/HossainAraf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/HossainAraf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/HossainAraf99" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/HossainAraf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<! <a href="https://www.twitter.com/HossainAraf99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
+-->
 ### Skills
 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
