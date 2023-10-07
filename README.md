@@ -6,7 +6,7 @@
 My name is MD ARAFAT HOSSAIN 
 =========================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+curious+to+learn; & passionate+to+create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+curious+to+learn;and+passionate+to+create)](https://git.io/typing-svg)
 
 Front End Developer
 ------------------------
