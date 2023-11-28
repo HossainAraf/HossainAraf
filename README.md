@@ -20,8 +20,8 @@ I'm passionate about exceeding client expectations and delivering exceptional us
 
 * 🖥️  See my portfolio at [github](http://github.com/HossainAraf/Portfolio-Mobile-First)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
-* 🚀  I'm currently working on [Bookstore](https://github.com/HossainAraf/Book-store)
-* 🧠  I'm learning Javascript, React, Redux, DSA
+* 🚀  I'm currently working on [Metric-webapp](https://github.com/HossainAraf/metrics-webapp)
+* 🧠  I'm learning Database, Ruby & DSA
 * 🤝  I'm open to collaborating on your repo
 
 <!--
