@@ -18,7 +18,7 @@ Collaboration and code quality are my priorities. I work closely with back-end d
 
 I'm passionate about exceeding client expectations and delivering exceptional user interfaces. If you're looking for a Front-End Developer who combines design sensibilities with technical expertise, let's connect and create outstanding web applications together.
 
-* 🖥️  See my portfolio at [github](http://github.com/HossainAraf/Portfolio-Mobile-First)
+* 🖥️  See my portfolio at [github](https://github.com/HossainAraf/Portfolio/tree/main)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
 * 🚀  I'm currently working on [school-library](https://github.com/HossainAraf/school-library)
 * 🧠  I'm learning Database, Ruby & DSA
