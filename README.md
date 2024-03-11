@@ -8,15 +8,9 @@ My name is MD ARAFAT HOSSAIN
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+curious+to+learn;and+passionate+to+create)](https://git.io/typing-svg)
 
-Front End Developer
+Full Stack Developer
 ------------------------
-I'm a dedicated Front-End Developer specializing in HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying updated with the latest web trends, I focus on creating engaging and user-friendly web experiences.
-
-I excel at turning designs into responsive, pixel-perfect web pages that work seamlessly across devices and browsers. I'm also proficient in modern JavaScript library React and Redux , allowing me to build dynamic and interactive web applications.
-
-Collaboration and code quality are my priorities. I work closely with back-end developers and designers to ensure efficient project development, and my proficiency in Git helps maintain a clean codebase for team projects.
-
-I'm passionate about exceeding client expectations and delivering exceptional user interfaces. If you're looking for a Front-End Developer who combines design sensibilities with technical expertise, let's connect and create outstanding web applications together.
+Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes HTML, CSS, JavaScript, React, Redux, Ruby on Rails, and PostgreSQL. Dedicated to crafting seamless user experiences and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
 
 * 🖥️  See my portfolio at [github](https://github.com/HossainAraf/Portfolio/tree/main)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
@@ -31,22 +25,53 @@ src="https://img.shields.io/github/followers/HossainAraf?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 -->
-### Skills
+### Tech Stack  🛠
+
+<a href="https://www.postgresql.org/"><img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt="postgresql" /></a>
+<a href="https://www.ruby-lang.org/en/"><img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt="ruby" /></a>
+<a href="https://rubyonrails.org/"><img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt="ror" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
+<a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
+<a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
+<a href="https://nextjs.org/"><img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt="nextJS" /></a>
+<a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
+
+<a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
+<a href="https://sass-lang.com/"><img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt="sass" /></a> 
+<a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwind" /></a>
+
+<a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
+<a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
+<a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
+
+<!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
+<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
+<a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
+<a href="https://www.netlify.com/"><img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt="netlify" /></a>
 
 
+
+</br>
+
+<--
 <p align="left">
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://example.com/ruby-icon.png" width="36" height="36" alt="Ruby" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://example.com/rails-icon.png" width="36" height="36" alt="Ruby on Rails" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://example.com/postgresql-icon.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://example.com/tailwindcss-icon.png" width="36" height="36" alt="Tailwind CSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+</p>  -->
 
 
 ### Socials
