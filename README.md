@@ -12,7 +12,7 @@ Full Stack Developer
 ------------------------
 Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes HTML, CSS, JavaScript, React, Redux, Ruby on Rails, and PostgreSQL. Dedicated to crafting seamless user experiences and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
 
-* 🖥️  See my portfolio at [github](https://github.com/HossainAraf/Portfolio/tree/main)
+* 🖥️  See my [portfolio](https://hossainaraf.github.io/Portfolio/)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
 * 🧠  I'm learning Database, Ruby & DSA
 * 🤝  I'm open to collaborating on your repo
@@ -51,10 +51,7 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
 <a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
 
-
-
 </br>
-
 <!--
 <p align="left">
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://example.com/ruby-icon.png" width="36" height="36" alt="Ruby" /></a>
@@ -74,12 +71,12 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>  -->
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/HossainAraf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/md-arafat-hossain-111403275/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HossainAraf99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/hossainArafUtech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 
+</br>
 
 <b>My GitHub Stats</b>
 
