@@ -45,16 +45,17 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
-<!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
-<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://www.netlify.com/"><img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt="netlify" /></a>
+
+<!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
+<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
 
 
 
 </br>
 
-<--
+<!--
 <p align="left">
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://example.com/ruby-icon.png" width="36" height="36" alt="Ruby" /></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://example.com/rails-icon.png" width="36" height="36" alt="Ruby on Rails" /></a>
