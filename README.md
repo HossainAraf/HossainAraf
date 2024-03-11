@@ -14,10 +14,10 @@ Experienced Full Stack Developer proficient in frontend design and backend engin
 
 * 🖥️  See my portfolio at [github](https://github.com/HossainAraf/Portfolio/tree/main)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
-<!--* 🚀  I'm currently working on [school-library](https://github.com/HossainAraf/school-library)-->
 * 🧠  I'm learning Database, Ruby & DSA
 * 🤝  I'm open to collaborating on your repo
 
+<!--* 🚀  I'm currently working on [school-library](https://github.com/HossainAraf/school-library)-->
 <!--
 <a href="https://www.github.com/HossainAraf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HossainAraf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
