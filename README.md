@@ -21,7 +21,7 @@ Experienced Full Stack Developer proficient in frontend design and backend engin
 <!--
 <a href="https://www.github.com/HossainAraf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HossainAraf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<! <a href="https://www.twitter.com/HossainAraf99" target="_blank" rel="noreferrer"><img
+<! <a href="https://twitter.com/ArafatMd68441" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 -->
