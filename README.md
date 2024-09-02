@@ -10,7 +10,7 @@ My name is MD ARAFAT HOSSAIN
 
 Full Stack Developer
 ------------------------
-Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes HTML, CSS, JavaScript, React, Redux, Ruby on Rails, and PostgreSQL. Dedicated to crafting seamless user experiences and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
+Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes HTML, CSS, JavaScript, React, Redux, Ruby, Ruby on Rails, and PostgreSQL. Dedicated to crafting seamless user experiences and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
 
 * 🖥️  See my [portfolio](https://hossainaraf.github.io/Portfolio/)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
