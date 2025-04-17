@@ -10,7 +10,7 @@ My name is MD ARAFAT HOSSAIN
 
 Full Stack Developer
 ------------------------
-Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes PostgreSQL, HTML, CSS, JavaScript, React, Redux, Ruby, Ruby on Rails, Git, Github, Linters etc. & Dedicated to crafting seamless user experiences and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
+Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes PostgreSQL, HTML, CSS, JavaScript, React, Redux, Ruby, Ruby on Rails, Git, GitHub, Linters, etc. Passionate about crafting seamless user experiences, practicing Agile development methodologies, and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
 
 * 🖥️  See my [portfolio](https://hossainaraf.github.io/Portfolio/)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
@@ -34,11 +34,9 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
 <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
 <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
-<a href="https://nextjs.org/"><img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt="nextJS" /></a>
 <a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
 
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
-<a href="https://sass-lang.com/"><img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt="sass" /></a> 
 <a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwind" /></a>
 
 <a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
@@ -50,6 +48,8 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 
 <!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
 <a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
+
+<a href="https://your-kanban-board-link"><img src="https://img.shields.io/badge/Kanban-Board-success?style=for-the-badge" alt="Kanban Board" /></a>
 
 </br>
 <!--
