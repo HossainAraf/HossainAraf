@@ -35,6 +35,9 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
 <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
 <a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</a>
 
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
 <a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwind" /></a>
@@ -44,7 +47,9 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
-<a href="https://www.netlify.com/"><img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt="netlify" /></a>
+<a href="https://www.cloudflare.com/">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</a>
 
 <!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
 <a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
