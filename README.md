@@ -12,7 +12,6 @@ Full Stack Developer
 ------------------------
 Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes PostgreSQL, HTML, CSS, JavaScript, React, Redux, Ruby, Ruby on Rails, Git, GitHub, Linters, etc. Passionate about crafting seamless user experiences, practicing Agile development methodologies, and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
 
-* 🖥️  See my [portfolio](https://hossainaraf.github.io/Portfolio/)
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
 * 🧠  I'm learning Database, Ruby & DSA
 * 🤝  I'm open to collaborating on your repo
