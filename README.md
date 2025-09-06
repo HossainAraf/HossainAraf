@@ -47,15 +47,14 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://testing-library.com/docs/react-testing-library/intro/">
   <img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" />
 </a>
+<!-- JavaScript Unit Test -->
+<a href="https://snyk.io/blog/how-to-write-unit-test-in-javascript/">
+  <img src="https://img.shields.io/badge/JavaScript_Unit_Test-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Unit Test" />
+</a>
 
 <!-- React Unit Test (Jest + RTL) -->
 <a href="https://testing-library.com/docs/react-testing-library/intro/">
   <img src="https://img.shields.io/badge/React_Unit_Test-99425b?style=for-the-badge&logo=jest&logoColor=white" alt="React Unit Test with Jest and RTL" />
-</a>
-
-<!-- JavaScript Unit Test -->
-<a href="https://snyk.io/blog/how-to-write-unit-test-in-javascript/">
-  <img src="https://img.shields.io/badge/JavaScript_Unit_Test-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Unit Test" />
 </a>
 
 
