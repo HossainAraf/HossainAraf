@@ -38,12 +38,42 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </a>
 
+<!-- Jest -->
+<a href="https://jestjs.io/">
+  <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" />
+</a>
+
+<!-- React Testing Library -->
+<a href="https://testing-library.com/docs/react-testing-library/intro/">
+  <img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" />
+</a>
+
+<!-- React Unit Test (Jest + RTL) -->
+<a href="https://testing-library.com/docs/react-testing-library/intro/">
+  <img src="https://img.shields.io/badge/React_Unit_Test-99425b?style=for-the-badge&logo=jest&logoColor=white" alt="React Unit Test with Jest and RTL" />
+</a>
+
+<!-- JavaScript Unit Test -->
+<a href="https://snyk.io/blog/how-to-write-unit-test-in-javascript/">
+  <img src="https://img.shields.io/badge/JavaScript_Unit_Test-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Unit Test" />
+</a>
+
+
+<a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout">
+  <img src="https://img.shields.io/badge/Flexbox-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Flexbox" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">
+  <img src="https://img.shields.io/badge/Grid-ffa500?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid" />
+</a>
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
 <a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwind" /></a>
 
-<a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
-<a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
+
 
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://www.cloudflare.com/">
