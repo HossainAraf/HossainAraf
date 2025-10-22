@@ -13,7 +13,7 @@ Full Stack Developer
 Experienced Full Stack Developer proficient in frontend design and backend engineering. Expertise includes PostgreSQL, HTML, CSS, JavaScript, React, Redux, Ruby, Ruby on Rails, Git, GitHub, Linters, etc. Passionate about crafting seamless user experiences, practicing Agile development methodologies, and fostering collaborative teamwork. Let's collaborate and create exceptional web applications!
 
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
-* 🧠  I'm learning Database, Ruby & DSA
+<!-- * 🧠  I'm learning Database, Ruby & DSA -->
 * 🤝  I'm open to collaborating on your repo
 
 <!--* 🚀  I'm currently working on [school-library](https://github.com/HossainAraf/school-library)-->
@@ -56,7 +56,6 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://testing-library.com/docs/react-testing-library/intro/">
   <img src="https://img.shields.io/badge/React_Unit_Test-99425b?style=for-the-badge&logo=jest&logoColor=white" alt="React Unit Test with Jest and RTL" />
 </a>
-
 
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
