@@ -29,36 +29,30 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://www.postgresql.org/"><img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt="postgresql" /></a>
 <a href="https://www.ruby-lang.org/en/"><img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt="ruby" /></a>
 <a href="https://rubyonrails.org/"><img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt="ror" /></a>
+</br>
+<a href="https://github.com/minitest/minitest-rails">
+  <img src="https://img.shields.io/badge/-Rails_Minitest-%23CC0000?style=for-the-badge&logo=ruby&logoColor=white" alt="rails-minitest" />
+</a>
+</br>
+<a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
 <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
 <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
 <a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
-<a href="https://nextjs.org/">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</a>
-
-<!-- Jest -->
-<a href="https://jestjs.io/">
-  <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" />
-</a>
-
-<!-- React Testing Library -->
-<a href="https://testing-library.com/docs/react-testing-library/intro/">
-  <img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" />
-</a>
-<!-- JavaScript Unit Test -->
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+</br>
+<a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
 <a href="https://snyk.io/blog/how-to-write-unit-test-in-javascript/">
   <img src="https://img.shields.io/badge/JavaScript_Unit_Test-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Unit Test" />
 </a>
-
-<!-- React Unit Test (Jest + RTL) -->
 <a href="https://testing-library.com/docs/react-testing-library/intro/">
   <img src="https://img.shields.io/badge/React_Unit_Test-99425b?style=for-the-badge&logo=jest&logoColor=white" alt="React Unit Test with Jest and RTL" />
 </a>
-
-<a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
-
+<a href="https://testing-library.com/docs/react-testing-library/intro/">
+  <img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" />
+</a>
+</br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </a>
@@ -70,20 +64,17 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 </a>
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
 <a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwind" /></a>
+</br>
+<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
+</br>
 
-
-
+<a href="https://your-kanban-board-link"><img src="https://img.shields.io/badge/Kanban-Board-success?style=for-the-badge" alt="Kanban Board" /></a>
+</br>
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://www.cloudflare.com/">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </a>
-
 <!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
-<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
-
-<a href="https://your-kanban-board-link"><img src="https://img.shields.io/badge/Kanban-Board-success?style=for-the-badge" alt="Kanban Board" /></a>
-
-</br>
 <!--
 <p align="left">
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://example.com/ruby-icon.png" width="36" height="36" alt="Ruby" /></a>
