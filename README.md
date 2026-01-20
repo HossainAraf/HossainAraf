@@ -71,6 +71,9 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://your-kanban-board-link"><img src="https://img.shields.io/badge/Kanban-Board-success?style=for-the-badge" alt="Kanban Board" /></a>
 </br>
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
+<a href="https://fly.io/">
+  <img src="https://img.shields.io/badge/Fly.io-a855f7?style=for-the-badge&logo=flydotio&logoColor=white" alt="Fly.io" />
+</a>
 <a href="https://www.cloudflare.com/">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </a>
