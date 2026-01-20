@@ -31,7 +31,7 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://rubyonrails.org/"><img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt="ror" /></a>
 </br>
 <a href="https://github.com/minitest/minitest-rails">
-  <img src="https://img.shields.io/badge/-Rails_Minitest-%23CC0000?style=for-the-badge&logo=ruby&logoColor=white" alt="rails-minitest" />
+  <img src="https://img.shields.io/badge/Rails_Minitest-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="rails-minitest" />
 </a>
 </br>
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
@@ -53,8 +53,11 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
   <img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" />
 </a>
 </br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout">
   <img src="https://img.shields.io/badge/Flexbox-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Flexbox" />
@@ -70,6 +73,7 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 
 <a href="https://your-kanban-board-link"><img src="https://img.shields.io/badge/Kanban-Board-success?style=for-the-badge" alt="Kanban Board" /></a>
 </br>
+
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://fly.io/">
   <img src="https://img.shields.io/badge/Fly.io-a855f7?style=for-the-badge&logo=flydotio&logoColor=white" alt="Fly.io" />
