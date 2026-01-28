@@ -33,6 +33,9 @@ src="https://img.shields.io/twitter/follow/HossainAraf99?logo=twitter&style=for-
 <a href="https://github.com/minitest/minitest-rails">
   <img src="https://img.shields.io/badge/Rails_Minitest-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="rails-minitest" />
 </a>
+<a href="https://rspec.info/">
+  <img src="https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="rspec" />
+</a>
 </br>
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
