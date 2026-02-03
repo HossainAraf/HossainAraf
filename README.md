@@ -10,7 +10,13 @@ My name is MD ARAFAT HOSSAIN
 
 Full Stack Developer
 ------------------------
-Full Stack Developer and Microverse alum, skilled in building full-cycle web applications. Proficient in Git/GitHub, Gitflow, and code quality tools (linters), I champion Agile methodologies, collaborative pair & mob programming, and clean, test-driven development. Passionate about crafting seamless user experiences through teamwork and iterative feedback. Let’s engineer exceptional digital products together.
+Full Stack Developer with hands-on experience building and maintaining Rails-based, API-first web applications backed by PostgreSQL.
+
+Founder & Project Manager at UTech Dynamics, where I design data models, define API contracts, enforce code quality standards, and manage end-to-end development workflows.
+
+Microverse alumnus with strong practice in Git/GitHub, Gitflow, linters, and test-oriented development. Comfortable working in Agile, distributed teams with pair & mob programming.
+
+Currently open to software engineering roles and meaningful collaborations.
 
 * ✉️  You can contact me at [arafat.kd99@gmail.com](mailto:arafat.kd99@gmail.com)
 <!-- * 🧠  I'm learning Database, Ruby & DSA -->
