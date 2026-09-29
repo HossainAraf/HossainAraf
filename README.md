@@ -9,13 +9,15 @@ My name is MD ARAFAT HOSSAIN
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+curious+to+learn;and+passionate+to+create)](https://git.io/typing-svg)
 
-Full Stack Developer
-------------------------
-Full Stack Developer with hands-on experience building and maintaining Rails-based, API-first web applications backed by PostgreSQL.
+Full Stack Developer specializing in Rails, PostgreSQL, and API-driven applications.
 
-Founder & Project Manager at UTech Dynamics, where I design data models, define API contracts, enforce code quality standards, and manage end-to-end development workflows.
+Founder & Project Manager at UTech Dynamics, where I lead product development from idea to deployment, design database architectures, define API contracts, and establish maintainable development workflows.
 
-Microverse alumnus with strong practice in Git/GitHub, Gitflow, linters, and test-oriented development. Comfortable working in Agile, distributed teams with pair & mob programming.
+Passionate about pragmatic software architecture, with a focus on cost-effective infrastructure, multi-tenant application design, secure credential-based deployments, and sustainable scaling strategies. I enjoy solving business problems through thoughtful engineering decisions, balancing performance, maintainability, security, and operational simplicity rather than introducing unnecessary technical complexity.
+
+Hands-on experience managing Linux-based environments, PostgreSQL administration, role-based access control, application configuration, and production deployments with an emphasis on reliability, security, and long-term maintainability.
+
+Microverse alumnus with strong practice in Git/GitHub, Gitflow, linters, automated testing, and collaborative development. Comfortable working in Agile, distributed teams with pair and mob programming.
 
 Currently open to software engineering roles and meaningful collaborations.
 
